@@ -67,5 +67,5 @@ ser informado em uma coordenada única ao longo da curva.
 
 ________________________________________________________________________
 
-Versão do leia me: 1.0 
+Versão do leia me: 1.0. 
 Em 24/01/2017
