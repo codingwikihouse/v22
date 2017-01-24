@@ -16,6 +16,7 @@ apresentada como Trabalho Final de Graduação na FAU UFRJ,
 maiores informações em:
 
 http://www.lamo.fau.ufrj.br/projetos/academicos/048tfgwikicurva/
+https://issuu.com/davidmendonca/docs/portfolio
 
 _________________________________________________________________
 
