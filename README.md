@@ -12,8 +12,12 @@ Está disponível para toda(s) a(s) comunidade(s) sob os termos da licença
 Creative Commons Attribution-ShareAlike 4.0 International.
 
 A versão disponibilizada aqui (v22) é uma cópia que foi 
-apresentada como Trabalho Final de Graduação na FAU UFRJ,
-maiores informações em:
+apresentada pelo Arquiteto David Mendonça como Trabalho 
+Final de Graduação da FAU UFRJ, sob a orientação dos 
+Professores Andrés Passaro e Gonçalo Henriques. Trabalho
+este desenvolvido dentro do LAMO (Laboratório de Modelos) 
+da Faculdade de Arquitetura e Urbanismo.
+Maiores informações em:
 
 http://www.lamo.fau.ufrj.br/projetos/academicos/048tfgwikicurva/ 
 
