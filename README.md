@@ -15,7 +15,8 @@ A versão disponibilizada aqui (v22) é uma cópia que foi
 apresentada como Trabalho Final de Graduação na FAU UFRJ,
 maiores informações em:
 
-http://www.lamo.fau.ufrj.br/projetos/academicos/048tfgwikicurva/
+http://www.lamo.fau.ufrj.br/projetos/academicos/048tfgwikicurva/ 
+
 https://issuu.com/davidmendonca/docs/portfolio
 
 _________________________________________________________________
@@ -66,5 +67,5 @@ ser informado em uma coordenada única ao longo da curva.
 
 ________________________________________________________________________
 
-Versão do leia me: 1.0
+Versão do leia me: 1.0 
 Em 24/01/2017
